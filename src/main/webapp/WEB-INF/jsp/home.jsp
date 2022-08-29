@@ -11,7 +11,7 @@
    
    <body>
       <center>
-         <h1>Continental DevOps Training 11111: Display Current Date & Time</h1>
+         <h1>Display Current Date & Time</h1>
       </center>
       <%
          Date date = new Date();
